@@ -1,6 +1,7 @@
 # Regression_Analysis
 A python script that takes structured csv housing data, performs a regression analysis and returns which variables are dependent and which are independent.
 
+Dataset based on: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 
 ### data.csv legend:
 * CRIM - per capita crime rate by town
